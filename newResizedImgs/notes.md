@@ -1,0 +1,1 @@
+The new images will be resized and stored in this folder. 
